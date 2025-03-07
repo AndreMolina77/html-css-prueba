@@ -1,0 +1,18 @@
+.logo{
+    width: 100px;
+}
+header{
+    text-align: center; 
+}
+nav li{
+    display: inline; /* Muestra los elementos en línea horizontal */
+    padding: 60px; /* Crea espacio de 60px alrededor del texto*/
+    font-size: 25px; /* Cambiamos el tamaño del texto   */
+}
+nav a{
+    text-decoration: none;  /* Quitamos el subrayado de los enlaces */
+    color: black;  /* Colocamos un color negro a la letra */
+}
+nav a:hover{
+    text-decoration: underline; /* Cuando la persona pase el mouse en el enlace , se subrayará el texto */
+}
